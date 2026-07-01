@@ -16,16 +16,16 @@
 
 ### Libraries & Frameworks
 
-[![Programming Languages](https://skillicons.dev/icons?i=nextjs,react,express,tailwind,bootstrap,opencv,unity,discord,pr)](https://skillicons.dev)(`Adobe CEP`)
+[![Programming Languages](https://skillicons.dev/icons?i=nextjs,react,vite,express,tailwind,bootstrap,opencv,unity,discord,pr)](https://skillicons.dev)(`Adobe CEP`), and `Chrome Extension`
 
 ### Platforms
 
-[![Programming Languages](https://skillicons.dev/icons?i=nodejs,firebase,gcp,github,raspberrypi,arduino)](https://skillicons.dev), and `Proxmox VE`
+[![Programming Languages](https://skillicons.dev/icons?i=nodejs,firebase,gcp,cloudflare,github,raspberrypi,arduino,windows,apple,ubuntu)](https://skillicons.dev), and `Proxmox VE`
 
 ### Tools & IDEs
 
-[![Programming Languages](https://skillicons.dev/icons?i=git,githubactions,arduino,vscode,visualstudio,androidstudio)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=git,githubactions,docker,vscode,visualstudio,androidstudio,arduino)](https://skillicons.dev)
 
 ### Design & Creative Tools
 
-[![Programming Languages](https://skillicons.dev/icons?i=pr,ae,ps,blender)](https://skillicons.dev), `FL Studio`, `Sythesizer V` and `Clip Studio Paint`
+[![Programming Languages](https://skillicons.dev/icons?i=pr,ae,ps,blender)](https://skillicons.dev), `FL Studio`, `Synthesizer V` and `Clip Studio Paint`
