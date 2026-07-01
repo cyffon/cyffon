@@ -26,6 +26,6 @@
 
 [![Programming Languages](https://skillicons.dev/icons?i=git,githubactions,arduino,vscode,visualstudio,androidstudio)](https://skillicons.dev)
 
-### Design & Creaive
+### Design & Creaive Tools
 
 [![Programming Languages](https://skillicons.dev/icons?i=pr,ae,ps,blender)](https://skillicons.dev), `FL Studio`, `Sythesizer V` and `Clip Studio Paint`
