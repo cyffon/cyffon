@@ -1,4 +1,5 @@
 name: GenerateSnake
+
 on:
   workflow_dispatch:
   schedule:
@@ -6,23 +7,28 @@ on:
 
 jobs:
   update-repository:
-    name: Update this repo's README with repository_owner
+    name: Update Snake
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
-        id: snake-gif
         with:
-          github_user_name: cyffon
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./img/snake.svg
             ./img/snake-dark.svg?palette=github-dark
+
       - name: Push to GitHub
         uses: EndBug/add-and-commit@main
         with:
           branch: main
-          message: 'Update'
+          message: "Update snake"
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
